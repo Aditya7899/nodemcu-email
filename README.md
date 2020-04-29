@@ -1,4 +1,4 @@
-# nodemcu-email
+# 4x4 Keypad Door Lock using NodeMCU with E-Mail Alert
 Hi!
 This project is a 4x4 keypad code lock using NodeMCU. 
 We can send E-Mail alerts to the owner or the specified recipient if the code is incorrectly entered three times in a row. 
